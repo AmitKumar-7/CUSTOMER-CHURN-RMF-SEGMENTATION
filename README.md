@@ -217,13 +217,3 @@ SELECT * FROM vw_data_quality_report;
 - [RFM Analysis Guide](https://en.wikipedia.org/wiki/RFM_(market_research))
 - [MySQL Optimization Guide](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
 
-## 📄 License
-
-This project is for educational and demonstration purposes.
-
----
-
-**Created for**: Customer Churn Prediction and RFM Segmentation Analysis
-**Database**: MySQL 5.7+ / 8.0+
-**Last Updated**: 2024
-
